@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/mistertams/Desktop/C# Features/C# Nullables/C# Features.csproj": {}
+    "/home/mistertams/Desktop/CSharp-Cool-And-Useful-Features/C# Features/C# Generic & Nullables/C# Features.csproj": {}
   },
   "projects": {
-    "/home/mistertams/Desktop/C# Features/C# Nullables/C# Features.csproj": {
+    "/home/mistertams/Desktop/CSharp-Cool-And-Useful-Features/C# Features/C# Generic & Nullables/C# Features.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mistertams/Desktop/C# Features/C# Nullables/C# Features.csproj",
+        "projectUniqueName": "/home/mistertams/Desktop/CSharp-Cool-And-Useful-Features/C# Features/C# Generic & Nullables/C# Features.csproj",
         "projectName": "C# Features",
-        "projectPath": "/home/mistertams/Desktop/C# Features/C# Nullables/C# Features.csproj",
+        "projectPath": "/home/mistertams/Desktop/CSharp-Cool-And-Useful-Features/C# Features/C# Generic & Nullables/C# Features.csproj",
         "packagesPath": "/home/mistertams/.nuget/packages/",
-        "outputPath": "/home/mistertams/Desktop/C# Features/C# Nullables/obj/",
+        "outputPath": "/home/mistertams/Desktop/CSharp-Cool-And-Useful-Features/C# Features/C# Generic & Nullables/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"

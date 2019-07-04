@@ -16,6 +16,7 @@ namespace C__Features
             Console.WriteLine($"Trying with non-null value | result: {Add(20, 16)}"); // displays 20
             Console.WriteLine($"Trying with null value | result Ver2: {AddVer2(null, 16)}"); // displays 16
             Console.WriteLine($"Trying with non-null value | result Ver2: {AddVer2(20, 16)}\n"); // displays 36
+            Console.WriteLine($"Result from FindRandomNumber method: {FindNumberInList(20000000)}");
 
             List<string> cars = new List<string>() 
             { 
@@ -81,6 +82,25 @@ namespace C__Features
         static int AddVer2(int? x, int y)
         {
             return x != null ? (int)x + y : y;
+        }
+
+        static int FindNumberInList(int x)
+        {
+            int? searchResult;
+            List<int> numbers = new List<int>();
+            Random random = new Random(0);
+
+            for (int i = 0; i < 1000; i++)
+            {
+                numbers.Add(random.Next(1, 1000));
+            }
+
+            searchResult = numbers.FirstOrDefault(number => number == x);
+
+            if (searchResult.HasValue)
+                return (int)searchResult;
+            else
+                return -99;
         }
     }
 }
