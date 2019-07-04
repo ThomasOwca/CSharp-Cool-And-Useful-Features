@@ -48,8 +48,12 @@ namespace C__Delegates
             // Invocation of the function that takes delegate as an argument.
             Caller(messageFunc);
 
+            // Create new object of type SampleTest that will utilize its
+            // internal delegate declarations.
             SampleTest myObj = new SampleTest();
 
+            // Pass the Messenger function from the Program class
+            // as a parameter for the delegate parameter used in the Process method.
             myObj.Process(Messenger);
         }
     }
