@@ -60,7 +60,7 @@ namespace C__Delegates
 
     public class SampleTest
     {
-        public delegate void SampleTestDelegate1();
+        public delegate void AnotherSampleTestDelegate();
         public delegate string MessengerProcessor(string message);
     
         public void Process(MessengerProcessor messengerProcessor)
@@ -72,6 +72,15 @@ namespace C__Delegates
             }
             else
                 Console.WriteLine("Process(): parameter was null.");
+        }
+
+        // Default constructor.
+        public SampleTest() { }
+
+        // Parameterized constructor example that takes in a delegate as an argument.
+        public SampleTest(AnotherSampleTestDelegate argDelegate)
+        {
+            AnotherSampleTestDelegate myDelegate = new AnotherSampleTestDelegate(argDelegate);
         }
     }
 }
