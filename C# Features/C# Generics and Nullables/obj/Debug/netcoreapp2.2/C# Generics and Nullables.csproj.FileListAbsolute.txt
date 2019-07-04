@@ -1,0 +1,11 @@
+/home/mistertams/Desktop/CSharp-Cool-And-Useful-Features/C# Features/C# Generics and Nullables/obj/Debug/netcoreapp2.2/C# Generics and Nullables.csprojAssemblyReference.cache
+/home/mistertams/Desktop/CSharp-Cool-And-Useful-Features/C# Features/C# Generics and Nullables/obj/Debug/netcoreapp2.2/C# Generics and Nullables.csproj.CoreCompileInputs.cache
+/home/mistertams/Desktop/CSharp-Cool-And-Useful-Features/C# Features/C# Generics and Nullables/obj/Debug/netcoreapp2.2/C# Generics and Nullables.AssemblyInfoInputs.cache
+/home/mistertams/Desktop/CSharp-Cool-And-Useful-Features/C# Features/C# Generics and Nullables/obj/Debug/netcoreapp2.2/C# Generics and Nullables.AssemblyInfo.cs
+/home/mistertams/Desktop/CSharp-Cool-And-Useful-Features/C# Features/C# Generics and Nullables/bin/Debug/netcoreapp2.2/C# Generics and Nullables.deps.json
+/home/mistertams/Desktop/CSharp-Cool-And-Useful-Features/C# Features/C# Generics and Nullables/bin/Debug/netcoreapp2.2/C# Generics and Nullables.runtimeconfig.json
+/home/mistertams/Desktop/CSharp-Cool-And-Useful-Features/C# Features/C# Generics and Nullables/bin/Debug/netcoreapp2.2/C# Generics and Nullables.runtimeconfig.dev.json
+/home/mistertams/Desktop/CSharp-Cool-And-Useful-Features/C# Features/C# Generics and Nullables/bin/Debug/netcoreapp2.2/C# Generics and Nullables.dll
+/home/mistertams/Desktop/CSharp-Cool-And-Useful-Features/C# Features/C# Generics and Nullables/bin/Debug/netcoreapp2.2/C# Generics and Nullables.pdb
+/home/mistertams/Desktop/CSharp-Cool-And-Useful-Features/C# Features/C# Generics and Nullables/obj/Debug/netcoreapp2.2/C# Generics and Nullables.dll
+/home/mistertams/Desktop/CSharp-Cool-And-Useful-Features/C# Features/C# Generics and Nullables/obj/Debug/netcoreapp2.2/C# Generics and Nullables.pdb
